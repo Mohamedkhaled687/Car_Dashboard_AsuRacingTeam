@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Car_Dashboard">
+    <file alias="qmldir">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Car_Dashboard/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,8 @@
+module Car_Dashboard
+typeinfo appCar_Dashboard.qmltypes
+prefer :/qt/qml/Car_Dashboard/
+Main 1.0 Main.qml
+WelcomeScreen 1.0 UI/WelcomePage/WelcomeScreen.qml
+MyButton 1.0 UI/WelcomePage/MyButton.qml
+WaitingScreen 1.0 UI/WelcomePage/WaitingScreen.qml
+

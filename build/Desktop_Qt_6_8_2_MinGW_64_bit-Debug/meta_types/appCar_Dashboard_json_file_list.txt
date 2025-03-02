@@ -1,0 +1,1 @@
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appCar_Dashboard_autogen/include/../XUX5SSWLF5/moc_udpclient.cpp.json

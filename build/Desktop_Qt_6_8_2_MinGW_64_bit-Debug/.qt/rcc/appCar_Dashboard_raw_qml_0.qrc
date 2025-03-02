@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/Car_Dashboard/">
+    <file alias="Main.qml">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/Main.qml</file>
+    <file alias="UI/WelcomePage/WelcomeScreen.qml">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/WelcomePage/WelcomeScreen.qml</file>
+    <file alias="UI/WelcomePage/MyButton.qml">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/WelcomePage/MyButton.qml</file>
+    <file alias="UI/WelcomePage/WaitingScreen.qml">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/WelcomePage/WaitingScreen.qml</file>
+    <file alias="UI/Assets/30.gif">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/Assets/30.gif</file>
+    <file alias="UI/Assets/CAR-215-ASURT.png">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/Assets/CAR-215-ASURT.png</file>
+    <file alias="UI/Assets/power.png">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/Assets/power.png</file>
+    <file alias="UI/Assets/powerButton.png">C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/Assets/powerButton.png</file>
+  </qresource>
+</RCC>
+

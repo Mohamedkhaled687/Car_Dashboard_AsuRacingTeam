@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: toolTip",
+                        "functionName": "onEntered",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: toolTip",
+                        "functionName": "onExited",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 2,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 24
+                    }
+                ],
+                "filepath": "MyButton.qml"
+            }
+        ],
+        "moduleId": "Car_Dashboard(appCar_Dashboard)"
+    }
+]

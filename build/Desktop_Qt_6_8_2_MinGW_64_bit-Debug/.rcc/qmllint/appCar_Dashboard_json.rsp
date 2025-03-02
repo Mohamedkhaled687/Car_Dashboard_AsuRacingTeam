@@ -1,0 +1,15 @@
+--bare
+-I
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.8.2/mingw_64/qml
+--resource
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Car_Dashboard.qrc
+--resource
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/appCar_Dashboard_raw_qml_0.qrc
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/Main.qml
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/WelcomePage/WelcomeScreen.qml
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/WelcomePage/MyButton.qml
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/WelcomePage/WaitingScreen.qml
+--json
+C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appCar_Dashboard_qmllint.json

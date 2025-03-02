@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: busyIndicator",
+                        "functionName": "bottom",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 1,
+                        "errorMessage": "Cannot resolve property type  for binding on centerIn.",
+                        "functionName": "centerIn",
+                        "line": 34
+                    }
+                ],
+                "filepath": "WaitingScreen.qml"
+            }
+        ],
+        "moduleId": "Car_Dashboard(appCar_Dashboard)"
+    }
+]

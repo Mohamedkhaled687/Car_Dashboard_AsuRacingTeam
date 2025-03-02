@@ -1,0 +1,409 @@
+[
+    {
+        "classes": [
+            {
+                "className": "UdpClient",
+                "lineNumber": 5,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "port",
+                                "type": "quint16"
+                            }
+                        ],
+                        "index": 15,
+                        "name": "start",
+                        "returnType": "bool"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "speed",
+                        "notify": "speedChanged",
+                        "read": "speed",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "float",
+                        "user": false,
+                        "write": "setSpeed"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "rpm",
+                        "notify": "rpmChanged",
+                        "read": "rpm",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setRpm"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "name": "accPedal",
+                        "notify": "accPedalChanged",
+                        "read": "accPedal",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setAccPedal"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "name": "brakePedal",
+                        "notify": "brakePedalChanged",
+                        "read": "brakePedal",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setBrakePedal"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 4,
+                        "name": "encoderAngle",
+                        "notify": "encoderAngleChanged",
+                        "read": "encoderAngle",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "write": "setEncoderAngle"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 5,
+                        "name": "temperature",
+                        "notify": "temperatureChanged",
+                        "read": "temperature",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "float",
+                        "user": false,
+                        "write": "setTemperature"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 6,
+                        "name": "batteryLevel",
+                        "notify": "batteryLevelChanged",
+                        "read": "batteryLevel",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setBatteryLevel"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 7,
+                        "name": "gpsLongitude",
+                        "notify": "gpsLongitudeChanged",
+                        "read": "gpsLongitude",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "write": "setGpsLongitude"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 8,
+                        "name": "gpsLatitude",
+                        "notify": "gpsLatitudeChanged",
+                        "read": "gpsLatitude",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "write": "setGpsLatitude"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 9,
+                        "name": "speedFL",
+                        "notify": "speedFLChanged",
+                        "read": "speedFL",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setSpeedFL"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 10,
+                        "name": "speedFR",
+                        "notify": "speedFRChanged",
+                        "read": "speedFR",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setSpeedFR"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 11,
+                        "name": "speedBL",
+                        "notify": "speedBLChanged",
+                        "read": "speedBL",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setSpeedBL"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 12,
+                        "name": "speedBR",
+                        "notify": "speedBRChanged",
+                        "read": "speedBR",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setSpeedBR"
+                    }
+                ],
+                "qualifiedClassName": "UdpClient",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newSpeed",
+                                "type": "float"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "speedChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newRpm",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "rpmChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newAccPedal",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "accPedalChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newBrakePedal",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 3,
+                        "name": "brakePedalChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newAngle",
+                                "type": "double"
+                            }
+                        ],
+                        "index": 4,
+                        "name": "encoderAngleChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newTemperature",
+                                "type": "float"
+                            }
+                        ],
+                        "index": 5,
+                        "name": "temperatureChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newBatteryLevel",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 6,
+                        "name": "batteryLevelChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newLongitude",
+                                "type": "double"
+                            }
+                        ],
+                        "index": 7,
+                        "name": "gpsLongitudeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newLatitude",
+                                "type": "double"
+                            }
+                        ],
+                        "index": 8,
+                        "name": "gpsLatitudeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "error",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 9,
+                        "name": "errorOccurred",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newSpeedFL",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 10,
+                        "name": "speedFLChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newSpeedFR",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 11,
+                        "name": "speedFRChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newSpeedBL",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 12,
+                        "name": "speedBLChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "newSpeedBR",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 13,
+                        "name": "speedBRChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 14,
+                        "name": "processPendingDatagrams",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "udpclient.h",
+        "outputRevision": 68
+    }
+]
