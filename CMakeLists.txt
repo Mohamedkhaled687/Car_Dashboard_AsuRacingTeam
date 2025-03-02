@@ -25,6 +25,7 @@ qt_add_qml_module(appCar_Dashboard
         RESOURCES UI/Assets/powerButton.png
         QML_FILES UI/WelcomePage/WaitingScreen.qml
         SOURCES Controllers/udpclient.h Controllers/udpclient.cpp
+        RESOURCES UI/Assets/formulalogo.jpeg
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

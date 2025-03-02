@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 189,
+                        "durationMicroseconds": 199,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 10
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 53,
+                        "durationMicroseconds": 45,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 16
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 141,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "margins",
                         "line": 17
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 125,
+                        "durationMicroseconds": 110,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 23
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 208,
+                        "durationMicroseconds": 176,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 24
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 148,
+                        "durationMicroseconds": 90,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 32
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 75,
+                        "durationMicroseconds": 67,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 33
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 110,
+                        "durationMicroseconds": 96,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 37
@@ -78,58 +78,82 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 86,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 38
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 40,
-                        "durationMicroseconds": 98,
+                        "column": 28,
+                        "durationMicroseconds": 52,
                         "errorMessage": "",
-                        "functionName": "horizontalCenter",
-                        "line": 46
+                        "functionName": "fillMode",
+                        "line": 48
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 108,
+                        "durationMicroseconds": 89,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 47
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 62
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 37,
-                        "durationMicroseconds": 124,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "pixelSize",
-                        "line": 56
+                        "line": 71
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 48,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 88,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
-                        "line": 60
+                        "line": 75
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 37,
-                        "durationMicroseconds": 101,
+                        "durationMicroseconds": 99,
                         "errorMessage": "",
                         "functionName": "pixelSize",
-                        "line": 68
+                        "line": 83
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 95,
+                        "durationMicroseconds": 106,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 72
+                        "line": 87
                     },
                     {
                         "codegenSuccessfull": false,
@@ -137,7 +161,7 @@
                         "durationMicroseconds": 6,
                         "errorMessage": "Cannot resolve property type  for binding on placeholderText.",
                         "functionName": "placeholderText",
-                        "line": 78
+                        "line": 93
                     },
                     {
                         "codegenSuccessfull": false,
@@ -145,7 +169,7 @@
                         "durationMicroseconds": 2,
                         "errorMessage": "Cannot resolve property type  for binding on placeholderTextColor.",
                         "functionName": "placeholderTextColor",
-                        "line": 79
+                        "line": 94
                     },
                     {
                         "codegenSuccessfull": false,
@@ -153,7 +177,7 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on width.",
                         "functionName": "width",
-                        "line": 81
+                        "line": 96
                     },
                     {
                         "codegenSuccessfull": false,
@@ -161,7 +185,7 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on height.",
                         "functionName": "height",
-                        "line": 82
+                        "line": 97
                     },
                     {
                         "codegenSuccessfull": false,
@@ -169,7 +193,7 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on verticalAlignment.",
                         "functionName": "verticalAlignment",
-                        "line": 85
+                        "line": 100
                     },
                     {
                         "codegenSuccessfull": false,
@@ -177,7 +201,7 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on pointSize.",
                         "functionName": "pointSize",
-                        "line": 84
+                        "line": 99
                     },
                     {
                         "codegenSuccessfull": false,
@@ -185,31 +209,31 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on horizontalCenter.",
                         "functionName": "horizontalCenter",
-                        "line": 86
+                        "line": 101
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 521,
+                        "durationMicroseconds": 590,
                         "errorMessage": "",
                         "functionName": "color",
-                        "line": 92
+                        "line": 107
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 128,
+                        "durationMicroseconds": 134,
                         "errorMessage": "",
                         "functionName": "pixelSize",
-                        "line": 103
+                        "line": 118
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 104,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 106
+                        "line": 121
                     },
                     {
                         "codegenSuccessfull": false,
@@ -217,7 +241,7 @@
                         "durationMicroseconds": 3,
                         "errorMessage": "Cannot resolve property type  for binding on placeholderText.",
                         "functionName": "placeholderText",
-                        "line": 113
+                        "line": 128
                     },
                     {
                         "codegenSuccessfull": false,
@@ -225,7 +249,7 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on placeholderTextColor.",
                         "functionName": "placeholderTextColor",
-                        "line": 114
+                        "line": 129
                     },
                     {
                         "codegenSuccessfull": false,
@@ -233,7 +257,7 @@
                         "durationMicroseconds": 2,
                         "errorMessage": "Cannot resolve property type  for binding on width.",
                         "functionName": "width",
-                        "line": 116
+                        "line": 131
                     },
                     {
                         "codegenSuccessfull": false,
@@ -241,7 +265,7 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on height.",
                         "functionName": "height",
-                        "line": 117
+                        "line": 132
                     },
                     {
                         "codegenSuccessfull": false,
@@ -249,15 +273,15 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on verticalAlignment.",
                         "functionName": "verticalAlignment",
-                        "line": 120
+                        "line": 135
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 38,
-                        "durationMicroseconds": 2,
+                        "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on pointSize.",
                         "functionName": "pointSize",
-                        "line": 119
+                        "line": 134
                     },
                     {
                         "codegenSuccessfull": false,
@@ -265,15 +289,15 @@
                         "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on horizontalCenter.",
                         "functionName": "horizontalCenter",
-                        "line": 121
+                        "line": 136
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 496,
+                        "durationMicroseconds": 439,
                         "errorMessage": "",
                         "functionName": "color",
-                        "line": 127
+                        "line": 142
                     },
                     {
                         "codegenSuccessfull": true,
@@ -281,71 +305,71 @@
                         "durationMicroseconds": 120,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 141
+                        "line": 156
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 107,
+                        "durationMicroseconds": 101,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 142
+                        "line": 157
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 70,
+                        "durationMicroseconds": 63,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 143
+                        "line": 158
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 29,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 37,
                         "errorMessage": "Cannot retrieve a non-object type by ID: sessionNameField",
                         "functionName": "onClicked",
-                        "line": 152
+                        "line": 167
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 105,
+                        "durationMicroseconds": 94,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
-                        "line": 147
+                        "line": 162
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 83,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 148
+                        "line": 163
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 33,
-                        "durationMicroseconds": 111,
+                        "durationMicroseconds": 98,
                         "errorMessage": "",
                         "functionName": "pixelSize",
-                        "line": 191
+                        "line": 206
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
-                        "line": 195
+                        "line": 210
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 85,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 196
+                        "line": 211
                     }
                 ],
                 "filepath": "WelcomeScreen.qml"

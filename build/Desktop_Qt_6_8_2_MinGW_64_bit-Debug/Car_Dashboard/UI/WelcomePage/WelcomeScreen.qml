@@ -21,7 +21,7 @@ Rectangle {
         Rectangle {
             id : leftRect
             width : parent.width / 3
-            height : parent.height - 20 * root.scaleFactor
+            height : parent.height - 10 * root.scaleFactor
             color : "#09122C"
             radius : 30
 
@@ -34,8 +34,23 @@ Rectangle {
                 smooth : true
 
                 anchors {
-                    top : parent.top
+                    top : formulalogo.top
                     horizontalCenter : parent.horizontalCenter
+                    topMargin : 40
+                }
+            }
+
+            Image {
+                id : formulalogo
+                source : "../Assets/formulalogo.jpeg"
+                width : 200
+                height : 100
+                fillMode : Image.PreserveAspectFit
+                smooth : true
+                anchors {
+                    top : parent.top
+                    left : parent.left
+                    leftMargin : 10
                 }
             }
 
@@ -146,7 +161,7 @@ Rectangle {
                 anchors {
                     horizontalCenter : parent.horizontalCenter
                     bottom : parent.bottom
-                    bottomMargin : 60
+                    bottomMargin : 50
                 }
 
                 onClicked : {
