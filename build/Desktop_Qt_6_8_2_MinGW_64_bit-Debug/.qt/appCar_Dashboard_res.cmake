@@ -12,6 +12,10 @@ set(src_and_dest_list
     "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Car_Dashboard/UI/Assets/powerButton.png"
     "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/Assets/formulalogo.jpeg"
     "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Car_Dashboard/UI/Assets/formulalogo.jpeg"
+    "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/Assets/car3_white.png"
+    "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Car_Dashboard/UI/Assets/car3_white.png"
+    "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/UI/Assets/road2.png"
+    "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Car_Dashboard/UI/Assets/road2.png"
 
 )
 set(timestamp_file "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/appCar_Dashboard_res.txt")

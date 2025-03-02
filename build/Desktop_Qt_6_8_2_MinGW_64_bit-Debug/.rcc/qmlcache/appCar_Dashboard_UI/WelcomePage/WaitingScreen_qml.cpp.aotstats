@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 214,
+                        "durationMicroseconds": 213,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 9
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 277,
+                        "durationMicroseconds": 157,
                         "errorMessage": "",
                         "functionName": "pixelSize",
                         "line": 21
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 190,
+                        "durationMicroseconds": 119,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 25
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 32,
+                        "durationMicroseconds": 20,
                         "errorMessage": "Cannot retrieve a non-object type by ID: busyIndicator",
                         "functionName": "bottom",
                         "line": 26
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 3,
+                        "durationMicroseconds": 1,
                         "errorMessage": "Cannot resolve property type  for binding on centerIn.",
                         "functionName": "centerIn",
                         "line": 34

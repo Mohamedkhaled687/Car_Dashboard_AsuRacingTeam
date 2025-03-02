@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6205ebba5c424e419788.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Car_Dashboard",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-523dbb4271c7531c9bee.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-fb0ea79b83e78ca995a8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-53623a595e3da5d07543.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-df9140f33a84d6b5e9aa.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-865684dd6e4fab34bbb2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard-Debug-88a22e59337d46935927.json",
+					"name" : "appCar_Dashboard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_autogen-Debug-9f62cad44915f6e0b87e.json",
+					"name" : "appCar_Dashboard_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_autogen_timestamp_deps-Debug-0e3dbeb6c4210bf8be86.json",
+					"name" : "appCar_Dashboard_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_copy_qml-Debug-bd81ea7e0515228d597e.json",
+					"name" : "appCar_Dashboard_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_copy_res-Debug-04759791842b8178b905.json",
+					"name" : "appCar_Dashboard_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_qmlimportscan-Debug-693073e0ca18f67d69b0.json",
+					"name" : "appCar_Dashboard_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_qmllint-Debug-ecc5358d6f5d6450fc43.json",
+					"name" : "appCar_Dashboard_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_qmllint_json-Debug-baa40b603698db54f98a.json",
+					"name" : "appCar_Dashboard_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_qmllint_module-Debug-65eb9da332ff9763690f.json",
+					"name" : "appCar_Dashboard_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCar_Dashboard_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCar_Dashboard_qmltyperegistration-Debug-5603c286eeb4ec16bc20.json",
+					"name" : "appCar_Dashboard_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appCar_Dashboard_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appCar_Dashboard_aotstats_target-Debug-50f2fc56baf992d5d5f4.json",
+					"name" : "module_appCar_Dashboard_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Mohamed/OneDrive/Documents/QtProjects/Car_Dashboard"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

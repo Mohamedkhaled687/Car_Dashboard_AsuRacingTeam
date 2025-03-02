@@ -214,6 +214,118 @@ Rectangle {
             }
         }
 
+        Rectangle {
+            id : extraInfromationRect
+            width : (2 * parent.width / 3) - 50
+            height : parent.height - 10 * root.scaleFactor
+            color : "#09122C"
+            radius : 30
+
+            Image {
+                id : roadImg
+                source : "../Assets/road2.png"
+                width : 400 * root.scaleFactor
+                height : 400 * root.scaleFactor
+                fillMode : Image.PreserveAspectFit
+                smooth : true
+                anchors {
+                    right : parent.right
+                    verticalCenter : parent.verticalCenter
+                }
+            }
+
+            Image {
+                id : roadCarImg
+                source : "../Assets/car3_white.png"
+                width: 150 * root.scaleFactor
+                height: 150 * root.scaleFactor
+                fillMode: Image.PreserveAspectFit
+                smooth: true
+                anchors.centerIn: roadImg
+            }
+
+            Column {
+                id :col
+                anchors {
+                    left : parent.left
+                    top : parent.top
+                    margins : 20
+                }
+                spacing : 10
+
+                Text {
+                    id : extraText
+                    text : "Extra Information"
+                    font {
+                        bold : true
+                        pixelSize : 16 * root.scaleFactor
+                        family : "Amiri"
+                    }
+                    color: "turquoise"
+                }
+                Text {
+                    text: "Enter Driver Name:"
+                    font {
+                        bold: true
+                        pixelSize: 13 * root.scaleFactor
+                        family : "Amiri"
+                    }
+                    anchors {
+                        left: parent.left
+                    }
+                    color: "white"
+                }
+                TextField {
+                    id : driverNameField
+                    placeholderText : "Enter Driver Name"
+                    placeholderTextColor : "turquoise"
+                    width : 300 * root.scaleFactor
+                    height : 30 * root.scaleFactor
+
+                    font.pointSize : 12 * root.scaleFactor
+                    verticalAlignment : TextInput.AlignVCenter
+                    anchors.left : parent.left
+                    color: "white"
+                    background: Rectangle {
+                        color: "#636363"
+                        radius: 100
+                        border.color: parent.activeFocus ? "turquoise" : "transparent"
+                         border.width: 4
+                    }
+
+                }
+                Text {
+                    text: "Enter Session Goals:"
+                    font {
+                        bold: true
+                        pixelSize: 13 * root.scaleFactor
+                        family : "Amiri"
+                    }
+                    anchors {
+                        left: parent.left
+                    }
+                    color: "white"
+                }
+                TextArea {
+                    id: goalsField
+                    width: 350 * root.scaleFactor
+                    height: 250 * root.scaleFactor
+                    wrapMode: Text.Wrap
+                    placeholderText: "Write your goals here..."
+                    placeholderTextColor: "turquoise"
+                    font.pointSize: 13 * root.scaleFactor
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    color: "white"
+                    background: Rectangle {
+                        color: "#636363"
+                        radius: 10
+                        border.color: parent.activeFocus ? "turquoise" : "transparent"
+                        border.width: 4
+                    }
+                }
+            }
+
+        }
 
     }
 }
